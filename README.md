@@ -69,7 +69,7 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 
 - **Nome:** Paulo Bevolo
 - **Email:** paulobevolopv@gmail.com
-- **LinkedIn:** [Seu LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/paulo-bevolo-691a72309/))
+- **LinkedIn:** [Paulo Bevolo]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/paulo-bevolo-691a72309/))
 
 ---
 
