@@ -67,8 +67,8 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-- **Nome:** Paulo
-- **Email:** seuemail@exemplo.com
+- **Nome:** Paulo Bevolo
+- **Email:** paulobevolopv@gmail.com
 - **LinkedIn:** [Seu LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/paulo-bevolo-691a72309/))
 
 ---
